@@ -1,0 +1,16 @@
+.cal {
+    background-color:pink;
+    font-size:20px;
+}
+.cal.cool {
+    font-size: 40px;
+}
+#a {
+    color:blue;
+    font-size: 50px;
+}
+#b {
+    background-color:green;
+    font-weight: bold;
+    font-size: 30px;
+}
